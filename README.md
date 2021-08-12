@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=srhqmp&show_icons=true)
+
+
 <!--
 **srhqmp/srhqmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
