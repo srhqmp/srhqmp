@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srhqmp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=srhqmp&show_icons=true)
 
 
